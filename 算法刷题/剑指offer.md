@@ -73,5 +73,8 @@ def deleteDuplication(self , pHead: ListNode) -> ListNode:
 ```
 
 ## 树
+[剑指offer](https://www.nowcoder.com/exam/oj/ta?page=1&tpId=13&type=13)
+
+[模板速刷101](https://www.nowcoder.com/ta/format-top101)
 
 
