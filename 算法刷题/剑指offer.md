@@ -38,7 +38,7 @@ def deleteDuplication(self , pHead: ListNode) -> ListNode:
 > 1. 复制链表并插入新节点：将每个新节点插入到原链表的每个节点之后。
 >  2. 处理 random 指针：因为新的节点和原节点是成对出现的，所以可以通过调整链表结构来复制 random 指针。
 >  3. 拆分链表：将原链表和新链表分离
-````
+```
     def Clone(self, pHead):
         # write code here
         if not pHead:
@@ -70,3 +70,8 @@ def deleteDuplication(self , pHead: ListNode) -> ListNode:
                 clone_node.next = cur.next.next
             cur = cur.next
         return clone_head
+```
+
+## 树
+
+
