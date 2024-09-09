@@ -82,9 +82,11 @@ def deleteDuplication(self , pHead: ListNode) -> ListNode:
   > 1. 有右子树，就找到右子树的最左下节点
   > 2.2 无右子树，但是左节点，找到他的父节点，即next
   > 2.3 无右子树，但是右节点，找到他所在左子树的父节点，或找不到即他只在右子树一堆，返回的就是根节点的next
-  >    
+  >   ![bbd079abe23773281a9b4a5a3e9671b](https://github.com/user-attachments/assets/fb57d8a8-aea1-4acf-979a-9095010a5274)
+
 
 [模板速刷101](https://www.nowcoder.com/ta/format-top101)
+
 
 
 
