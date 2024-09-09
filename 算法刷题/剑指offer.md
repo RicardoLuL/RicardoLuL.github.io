@@ -76,7 +76,15 @@ def deleteDuplication(self , pHead: ListNode) -> ListNode:
 [剑指offer](https://www.nowcoder.com/exam/oj/ta?page=1&tpId=13&type=13)
 - 二叉搜索树（排序树、查找树）
   - 都是左<根<右，用中序遍历
- 
+   
+- 二叉树的下一个节点
+  > [!NOTE]
+  > 1. 有右子树，就找到右子树的最左下节点
+  > 2.2 无右子树，但是左节点，找到他的父节点，即next
+  > 2.3 无右子树，但是右节点，找到他所在左子树的父节点，或找不到即他只在右子树一堆，返回的就是根节点的next
+  >    
+
 [模板速刷101](https://www.nowcoder.com/ta/format-top101)
+
 
 
