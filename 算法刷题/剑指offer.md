@@ -74,7 +74,9 @@ def deleteDuplication(self , pHead: ListNode) -> ListNode:
 
 ## 树
 [剑指offer](https://www.nowcoder.com/exam/oj/ta?page=1&tpId=13&type=13)
-
+- 二叉搜索树（排序树、查找树）
+  - 都是左<根<右，用中序遍历
+ 
 [模板速刷101](https://www.nowcoder.com/ta/format-top101)
 
 
