@@ -13,3 +13,7 @@
 ## [因为不懂推测解码，被面试官鄙视了...](https://mp.weixin.qq.com/s/hu3NXsXcU2onKZkwIytclQ)
 
      丁师兄大模型：综合感觉较好，可以多看、有原理架构、面试题（可能不如aigc小白真实）、但8月才开始写
+
+## [大模型能力扩展之——提示词(Prompt)，知识库，思维链(CoT)和Agent(代理)](https://mp.weixin.qq.com/s/IQWVGmQ1AqH-EY-0XuQg5Q)
+
+      AI探索时代：一些大模型训练和推理的细节知识、拓展知识，面试的很少
