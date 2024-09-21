@@ -13,3 +13,4 @@
 
 ## 课程
 [2021年最新 | 产品经理基础入门](https://www.bilibili.com/video/BV13z4y1m7UQ/?spm_id_from=333.337.search-card.all.click&vd_source=137f5f3ac8c16256a5d874e1a7910c15)
+[产品经理必刷的200道面试题东岳](https://www.bilibili.com/video/BV1BP4y1R7f9/?spm_id_from=333.976.0.0&vd_source=137f5f3ac8c16256a5d874e1a7910c15)
