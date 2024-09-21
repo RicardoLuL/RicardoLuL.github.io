@@ -10,3 +10,6 @@
 ## 相关工具
 - 产品原型图：磨刀
 - PRD文档
+
+## 课程
+[2021年最新 | 产品经理基础入门](https://www.bilibili.com/video/BV13z4y1m7UQ/?spm_id_from=333.337.search-card.all.click&vd_source=137f5f3ac8c16256a5d874e1a7910c15)
