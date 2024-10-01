@@ -87,8 +87,10 @@ def deleteDuplication(self , pHead: ListNode) -> ListNode:
 - 层次遍历
   > 使用队列
   > 1、deque结构 from collections import deque queue = deque() queue.popleft(); 注意每次需要存入树的节点结构，为了下次pop
+  > 
   > 2、list实现  queue=[root] queue.pop(0)
   > [层次打印二叉树](https://www.nowcoder.com/practice/7fe2212963db4790b57431d9ed259701?tpId=13&tqId=23280&ru=/exam/oj/ta&qru=/ta/coding-interviews/question-ranking&sourceUrl=%2Fexam%2Foj%2Fta%3Fpage%3D1%26tpId%3D13%26type%3D13)
+  
 [模板速刷101](https://www.nowcoder.com/ta/format-top101)
 
 
